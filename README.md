@@ -10,7 +10,7 @@ The objective was to perform analysis for evaluating the performance of the sola
 
 My role is to carryout this evaluation as outlined above and provide a summarized conclusion and recommendation for further actions. This is provided at the summary and recommendation section of this notebook.
 
-![image](https://github.com/AntonAIG/photovoltaic_analytics/blob/main/NREL_solar_systems/Dashboard%201.png)
+
 
 In this project, we found out that:
 
